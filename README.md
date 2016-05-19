@@ -1,8 +1,8 @@
 ## About this repository
-This repository is personal practice that build front uses authentication API.Using **AngularJS** with **ng-token-auth**.This repository is worked in conjunction with the [AuthenticationAPI]("https://github.com/NewFieldForMe/AuthenticationAPI") repository. Please watch readme in each project to use.
+This repository is personal practice that build front uses authentication API.Using **AngularJS** with **ng-token-auth**.This repository is worked in conjunction with the [AuthenticationAPI](https://github.com/NewFieldForMe/AuthenticationAPI) repository. Please watch readme in each project to use.
 
 #### Reference
-[ng_token-auth]("https://github.com/lynndylanhurley/ng-token-auth")
+[ng_token-auth](https://github.com/lynndylanhurley/ng-token-auth)
 
 #### Getting Start  
 Move directory and execute follow commands in terminal.  
